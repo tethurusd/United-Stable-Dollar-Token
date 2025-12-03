@@ -1,0 +1,36 @@
+{
+"name": "United Stable Dollar Token Registry",
+"logoURI": "https://unitedstabledollar.com/logo.png",
+"version": {
+"major": 1,
+"minor": 0,
+"patch": 0
+},
+"keywords": ["stablecoin", "usdt", "multi-chain", "usd"],
+"officialSite": "https://unitedstabledollar.com",
+"socials": {
+"twitter": "https://twitter.com/UnitedUSDT",
+"telegram": "https://t.me/UnitedStableDollar",
+"support": "mailto:support@unitedstabledollar.com"
+},
+"chains": [
+{
+"chainId": 1,
+"name": "Ethereum",
+"assetsURL": "https://unitedstabledollar.com/assets/blockchains/ethereum/assets/",
+"explorer": "https://etherscan.io/address/0xa5B9ED8326aE5c9aA24607116b3fC86976a79308"
+},
+{
+"chainId": 56,
+"name": "BNB Smart Chain",
+"assetsURL": "https://unitedstabledollar.com/assets/blockchains/smartchain/assets/",
+"explorer": "https://bscscan.com/address/0xB0895c8bbF14110539d69D199C634F949Ea9d3ac"
+},
+{
+"chainId": 728126428,
+"name": "Tron",
+"assetsURL": "https://unitedstabledollar.com/assets/blockchains/tron/assets/",
+"explorer": "https://tronscan.org/#/token20/TLSAKgTyVR2rodQcZmx5teLWRPgFaeZ7aL"
+}
+]
+}
