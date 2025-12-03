@@ -1,0 +1,101 @@
+body {
+font-family: Inter, Arial, sans-serif;
+margin: 0;
+background: #f5faf7;
+color: #073b2d;
+}
+
+.navbar {
+width: 100%;
+background: #ffffff;
+border-bottom: 1px solid #e8f3ee;
+padding: 15px 25px;
+}
+
+.logo-block {
+display: flex;
+align-items: center;
+gap: 12px;
+}
+
+.nav-logo {
+width: 42px;
+height: 42px;
+}
+
+.nav-title {
+font-size: 20px;
+font-weight: 600;
+}
+
+.hero {
+text-align: center;
+padding: 70px 20px 50px;
+}
+
+.hero-logo {
+width: 90px;
+margin-bottom: 15px;
+}
+
+.hero h1 {
+margin: 0;
+font-size: 32px;
+font-weight: 700;
+}
+
+.sub {
+margin-top: 12px;
+max-width: 600px;
+margin-left: auto;
+margin-right: auto;
+font-size: 17px;
+color: #195d45;
+}
+
+section {
+padding: 40px 25px;
+}
+
+.contracts h2,
+.about h2,
+.contact h2 {
+text-align: center;
+margin-bottom: 25px;
+font-weight: 600;
+}
+
+.chain {
+margin-bottom: 20px;
+background: #ffffff;
+border: 1px solid #e0efe8;
+padding: 20px;
+border-radius: 10px;
+}
+
+.address {
+font-family: monospace;
+font-size: 15px;
+word-break: break-all;
+margin-top: 8px;
+}
+
+.about p {
+max-width: 800px;
+margin: auto;
+margin-bottom: 15px;
+line-height: 1.6;
+}
+
+.contact p {
+text-align: center;
+font-size: 16px;
+}
+
+footer {
+text-align: center;
+padding: 20px;
+background: #ffffff;
+border-top: 1px solid #e0efe8;
+margin-top: 30px;
+}
